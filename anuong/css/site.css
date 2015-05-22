@@ -1,0 +1,51 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+		
+li {
+	float: left;
+	margin-left: 50px;
+}
+
+a {
+	text-decoration: none;
+	color: #B4C835;
+}
+		
+a:hover {
+	text-decoration: none;
+	color: #B4C835;
+}
+
+.root {
+	width: 1100px;
+	height: 1000px;
+	overflow: visible;
+}
+
+.container {
+	width: 900px;
+	margin-left: 200px;
+}
+
+body {
+	background-image: url("../images/background.jpg");
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+
+#logo {
+	opacity: 0.8;
+	float: left;
+}
+
+#menu {
+	margin-top: 35px;
+	float: right;
+}
+
+
+
